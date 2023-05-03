@@ -1,0 +1,12 @@
+**Fidas_credentials.py
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+# Emacs backups
+**~
+# netcdf files and text files in the data folder (Fidas data)
+data/*.nc
+data/*.txt
+# old versions of the dashboard
+data/Fidas_dashboard_v*
