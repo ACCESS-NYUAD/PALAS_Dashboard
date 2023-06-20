@@ -8,6 +8,8 @@ __pycache__/
 # netcdf files and text files in the data folder (Fidas data)
 data/*.nc
 data/*.txt
+# No need to keep track of jupyter checkpoints
+data/.ipynb_checkpoints
 # old versions of the dashboard
 data/Fidas_dashboard_v*
 # the logfile of the running data downloader
